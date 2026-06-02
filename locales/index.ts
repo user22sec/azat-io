@@ -26,4 +26,4 @@ export let locales: {
   },
 ]
 
-export let defaultLocale: Locale = 'en'
+export let defaultLocale: Locale = 'id'
