@@ -277,12 +277,12 @@ export default {
   },
   index: {
     greeting:
-      'Hi there! My name is Azat. I am a frontend developer. On this site I share my thoughts and ideas about development and modern technologies.',
+      'Hi there! My name is Sudar, This blog tells about my experiences in the world of blogging.',
     description:
       'Hi, my name is Sudar, Travel Blogger and Content Creator',
     'website-subtitle': 'for reinventing the wheel',
-    title: 'Manual for reinventing the wheel',
-    'website-title': 'Manual',
+    title: 'Catatan Harian Kang Sudar',
+    'website-title': 'Personal Blog',
     avatar: "Azat's avatar.",
   },
   about: {
