@@ -123,7 +123,7 @@ export default defineConfig({
     service: sharpImageService(),
   },
   server: {
-    port: 8080,
+    port: 1234,
     host: true,
   },
   compressHTML: true,
