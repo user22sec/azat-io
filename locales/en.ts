@@ -279,7 +279,7 @@ export default {
     greeting:
       'Hi there! My name is Azat. I am a frontend developer. On this site I share my thoughts and ideas about development and modern technologies.',
     description:
-      'Personal website of Azat S. Front-end developer, creator of technical content, open source community member',
+      'Hi, my name is Sudar, Travel Blogger and Content Creator',
     'website-subtitle': 'for reinventing the wheel',
     title: 'Manual for reinventing the wheel',
     'website-title': 'Manual',
@@ -324,11 +324,11 @@ export default {
     npm: 'npm',
   },
   head: {
-    title: 'Manual for reinventing the wheel',
+    title: 'Kang Sudar Diary and Creator',
     'last-name': 'Shaimukhametov',
     'cover-for': 'Cover for',
-    'first-name': 'Azat',
-    name: 'Azat S.',
+    'first-name': 'Sudar',
+    name: 'Sudarmanto.',
   },
   footer: {
     'follow-me-on': 'Follow me on',
@@ -336,11 +336,11 @@ export default {
     github: 'GitHub',
   },
   rss: {
-    description: 'Manual for reinventing the wheel',
-    title: 'Azat S.',
+    description: 'Diary and Essay',
+    title: 'Sudar.',
   },
   header: {
     'skip-to-content': 'Skip to main content',
-    name: 'Azat S.',
+    name: 'Sudar',
   },
 }
