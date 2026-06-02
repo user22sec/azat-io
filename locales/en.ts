@@ -324,7 +324,7 @@ export default {
     npm: 'npm',
   },
   head: {
-    title: 'Kang Sudar Diary and Creator',
+    title: 'Catatan Harian Kang Sudar',
     'last-name': 'Shaimukhametov',
     'cover-for': 'Cover for',
     'first-name': 'Sudar',
