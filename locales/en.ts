@@ -334,6 +334,7 @@ export default {
     'follow-me-on': 'Follow me on',
     bluesky: 'BlueSky',
     github: 'GitHub',
+    instagram: 'Instagram',
   },
   rss: {
     description: 'Diary and Essay',
