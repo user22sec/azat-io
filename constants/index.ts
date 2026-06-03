@@ -1,14 +1,14 @@
 /**
  * Email address for contact.
  */
-export const SOCIAL_EMAIL = 'to@azat.io'
+export const SOCIAL_EMAIL = 'to@sudar.web.id'
 
 /**
  * GitHub username.
  *
- * @see https://github.com/azat-io
+ * @see https://github.com/user22sec
  */
-export const SOCIAL_GITHUB = 'azat-io'
+export const SOCIAL_GITHUB = 'user22sec'
 
 /**
  * Twitter username (RU).
@@ -63,6 +63,6 @@ export const SOCIAL_TELEGRAM = 'azat_io'
 /**
  * Instagram username.
  *
- * @see https://instagram.com/azat_io
+ * @see https://instagram.com/20.22sh
  */
-export const SOCIAL_INSTAGRAM = 'azat_io'
+export const SOCIAL_INSTAGRAM = '20.22sh'
