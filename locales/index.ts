@@ -4,8 +4,8 @@ import en from '~/locales/en'
 export type Locale = keyof typeof translations
 
 export let translations = {
+  id,
   en,
-  ru,
 }
 
 export let locales: {
