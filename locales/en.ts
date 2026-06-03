@@ -338,10 +338,10 @@ export default {
   },
   rss: {
     description: 'Diary and Essay',
-    title: 'Sudar.',
+    title: 'Sudar Blogs',
   },
   header: {
     'skip-to-content': 'Skip to main content',
-    name: 'Sudar',
+    name: 'Sudar Blogs',
   },
 }
