@@ -1,51 +1,51 @@
 export default {
   anime: {
     'higehiro-after-being-rejected-i-shaved-and-took-in-a-high-school-runaway':
-      'Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway',
+      'Higehiro: Setelah Ditolak, Saya Mencukur Jenggot dan Menerima Seorang Siswa SMA yang Kabur',
     'attack-on-titan-final-season-the-final-chapters-special-1':
-      'Attack on Titan: Final Season The Final Chapters Special 1',
+      'Attack on Titan: Musim Terakhir Bab-bab Terakhir Spesial 1',
     'attack-on-titan-final-season-the-final-chapters-special-2':
-      'Attack on Titan: Final Season The Final Chapters Special 2',
+      'Attack on Titan: Musim Terakhir Bab-bab Terakhir Spesial 2',
     'made-in-abyss-the-golden-city-of-the-scorching-sun':
-      'Made in Abyss: The Golden City of the Scorching Sun',
+      'Made in Abyss: Kota Emas Matahari Terik',
     'butareba-the-story-of-a-man-turned-into-a-pig':
-      'Butareba — The Story of a Man Turned into a Pig',
+      'Butareba — Kisah Seorang Pria yang Berubah Menjadi Babi',
     'solo-leveling-season-2-arise-from-the-shadow':
-      'Solo Leveling Season 2 - Arise from the Shadow',
+      'Solo Leveling Musim 2 - Bangkit dari Bayangan',
     'alya-sometimes-hides-her-feelings-in-russian':
-      'Alya Sometimes Hides Her Feelings in Russian',
+      'Alya Terkadang Menyembunyikan Perasaannya dalam Bahasa Rusia',
     'mushoku-tensei-jobless-reincarnation-part-2':
       'Mushoku Tensei: Jobless Reincarnation Part 2',
     'attack-on-titan-the-final-season-part-2':
-      'Attack on Titan: The Final Season Part 2',
+      'Reinkarnasi Pengangguran: Jobes Rain Carnation Bagian 2',
     'demon-slayer-entertainment-district-arc':
-      'Demon Slayer: Entertainment District Arc',
+      'Pembunuh Iblis: Arc Distrik Hiburan',
     'dead-dead-demon-s-dededededestruction':
-      'Dead Dead Demon’s Dededededestruction',
+      'Penghancuran Setan Mati Mati',
     'mushoku-tensei-jobless-reincarnation':
-      'Mushoku Tensei: Jobless Reincarnation',
+      'Reinkarnasi Pengangguran: Jobes Raincarnation',
     'made-in-abyss-dawn-of-the-deep-soul':
-      'Made in Abyss: Dawn of the Deep Soul',
+      'Made in Abyss: Fajar Jiwa yang Dalam',
     'demon-slayer-swordsmith-village-arc':
-      'Demon Slayer: Swordsmith Village Arc',
-    'orb-on-the-movements-of-the-earth': 'Orb: On the Movements of the Earth',
-    'the-melancholy-of-haruhi-suzumiya': 'The Melancholy of Haruhi Suzumiya',
-    'attack-on-titan-the-final-season': 'Attack on Titan: The Final Season',
-    'zom-100-bucket-list-of-the-dead': 'Zom 100: Bucket List of the Dead',
-    'the-girl-who-leapt-through-time': 'The Girl Who Leapt Through Time',
-    'the-apothecary-diaries-season-2': 'The Apothecary Diaries Season 2',
-    'keep-your-hands-off-eizouken': 'Keep Your Hands Off Eizouken!',
-    'frieren-beyond-journey-s-end': 'Frieren: Beyond Journey’s End',
-    'charcoal-feather-federation': 'Charcoal Feather Federation',
-    'in-this-corner-of-the-world': 'In This Corner of the World',
-    'onimai-i-m-now-your-sister': "Onimai: I'm Now Your Sister!",
-    'ameku-m-d-doctor-detective': 'Ameku M.D.: Doctor Detective',
-    'la-maison-en-petits-cubes': 'La Maison en Petits Cubes',
-    'to-your-eternity-season-2': 'To Your Eternity Season 2',
-    'demon-slayer-mugen-train': 'Demon Slayer: Mugen Train',
-    '5-centimeters-per-second': '5 Centimeters per Second',
-    'attack-on-titan-3-part-2': 'Attack on Titan 3 Part 2',
-    'the-promised-neverland-2': 'The Promised Neverland 2',
+      'Pembunuh Iblis: Arc Desa Pandai Besi',
+    'orb-on-the-movements-of-the-earth': 'Orb: Tentang Pergerakan Bumi',
+    'the-melancholy-of-haruhi-suzumiya': 'Kesedihan Haruhi Suzumiya',
+    'attack-on-titan-the-final-season': 'Attack on Titan: Musim Terakhir',
+    'zom-100-bucket-list-of-the-dead': 'Zom 100: Daftar Keinginan Orang Mati',
+    'the-girl-who-leapt-through-time': 'Gadis yang Melompat Menembus Waktu',
+    'the-apothecary-diaries-season-2': 'The Apothecary Diaries Musim 2',
+    'keep-your-hands-off-eizouken': 'Jangan sentuh Eizouken!',
+    'frieren-beyond-journey-s-end': 'Membeku: Melampaui Akhir Perjalanan',
+    'charcoal-feather-federation': 'Federasi Bulu Arang',
+    'in-this-corner-of-the-world': 'Di Sudut Dunia Ini',
+    'onimai-i-m-now-your-sister': "Onimai: Aku Sekarang Adikmu!",
+    'ameku-m-d-doctor-detective': 'Ameku M.D.: Dokter Detektif',
+    'la-maison-en-petits-cubes': 'Rumah dalam Kubus-Kubus Kecil',
+    'to-your-eternity-season-2': 'Menuju Keabadianmu Musim 2',
+    'demon-slayer-mugen-train': 'Pembunuh Iblis: Kereta Mugen',
+    '5-centimeters-per-second': '5 Sentimeter per Detik',
+    'attack-on-titan-3-part-2': 'Attack on Titan 3 Bagian 2',
+    'the-promised-neverland-2': 'Negeri Tak Pernah Terjanji 2',
     'undead-girl-murder-farce': 'Undead Girl Murder Farce',
     'negative-positive-angler': 'Negative Positive Angler',
     'godzilla-singular-point': 'Godzilla: Singular Point',
