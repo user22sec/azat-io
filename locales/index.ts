@@ -1,5 +1,5 @@
 import en from '~/locales/en'
-import ru from '~/locales/id'
+import ru from '~/locales/ru'
 
 export type Locale = keyof typeof translations
 
@@ -20,9 +20,9 @@ export let locales: {
   },
   {
     /* spell-checker:disable-next-line */
-    originName: 'Indonesia',
-    flag: 'id',
-    code: 'id',
+    originName: 'Русский',
+    flag: 'ru',
+    code: 'ru',
   },
 ]
 
