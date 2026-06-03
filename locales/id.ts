@@ -285,7 +285,7 @@ export default {
       'Saya Nauval S, Menjadi Blogger Adalah jalan ninjaku',
     'website-subtitle': 'Menjadi Blogger Adalah Jalan Ninjaku',
     title: 'Catatan Harian Kang Sudar',
-    'website-title': 'Blog Kang Sudar',
+    'website-title': 'Sudarmanto',
     avatar: "Sudar avatar.",
   },
   about: {
@@ -341,10 +341,10 @@ export default {
   },
   rss: {
     description: 'Diary and Essay',
-    title: 'Kang Sudar.',
+    title: 'Sudar Blog',
   },
   header: {
     'skip-to-content': 'Skip to main content',
-    name: 'Kang Sudar',
+    name: 'Sudar Blog',
   },
 }
