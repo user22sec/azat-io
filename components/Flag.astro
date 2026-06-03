@@ -23,6 +23,7 @@ import FlagUA from '~/assets/flags/flag-ua.svg'
 import FlagUG from '~/assets/flags/flag-ug.svg'
 import FlagUS from '~/assets/flags/flag-us.svg'
 import FlagVN from '~/assets/flags/flag-vn.svg'
+import FlagID from '~/assets/flags/flag-id.svg'
 import Hidden from '~/components/Hidden.astro'
 
 interface Props {
@@ -58,6 +59,7 @@ let flags = {
   ug: FlagUG,
   us: FlagUS,
   vn: FlagVN,
+  id: FlagID,
 }
 
 let Icon = flags[code as keyof typeof flags]
