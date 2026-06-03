@@ -23,12 +23,6 @@ export let locales: {
     flag: 'us',
     code: 'en',
   },
-  {
-    spell-checker:disable-next-line
-    originName: 'Русский',
-    flag: 'ru',
-    code: 'ru',
-  },
 ]
 
 export let defaultLocale: Locale = 'en'
