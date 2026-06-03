@@ -257,6 +257,7 @@ export default {
     ru: 'Russian Federation',
     'flag-of': 'Flag of',
     title: 'Travel Map',
+    id: 'Indonesia',
     az: 'Azerbaijan',
     ps: 'Palestine',
     sg: 'Singapore',
@@ -282,14 +283,14 @@ export default {
       'Nama saya Nauval Sudarmanto, Situs ini Bercerita Tentang Pengalaman, Esai dan Opini.',
     description:
       'Saya Nauval S, Menjadi Blogger Adalah jalan ninjaku',
-    'website-subtitle': 'blogger adalah jalan ninjaku',
+    'website-subtitle': 'Menjadi Blogger Adalah Jalan Ninjaku',
     title: 'Catatan Harian Kang Sudar',
-    'website-title': 'Personal Blog',
-    avatar: "Azat's avatar.",
+    'website-title': 'Blog Kang Sudar',
+    avatar: "Sudar avatar.",
   },
   about: {
     description:
-      'Azat S. Front-end developer, creator of technical content, open source community member',
+      'Nauval Sudarmanto, Blogger Travel and Content Creator Base in Lamongan',
     instagram: 'Instagram',
     mastodon: 'Mastodon',
     linkedin: 'LinkedIn',
@@ -303,7 +304,7 @@ export default {
     x: 'X',
   },
   navigation: {
-    'change-language': 'Change language',
+    'change-language': 'Traslite',
     'change-theme': 'Change theme',
     'light-theme': 'Light theme',
     'dark-theme': 'Dark theme',
@@ -311,7 +312,6 @@ export default {
     'open-menu': 'Open menu',
     projects: 'Projects',
     about: 'About',
-    ru: 'Russian',
     en: 'English',
     id: 'Indonesia', 
     blog: 'Blog',
@@ -341,10 +341,10 @@ export default {
   },
   rss: {
     description: 'Diary and Essay',
-    title: 'Sudar.',
+    title: 'Kang Sudar.',
   },
   header: {
     'skip-to-content': 'Skip to main content',
-    name: 'Nauval S.',
+    name: 'Kang Sudar',
   },
 }
