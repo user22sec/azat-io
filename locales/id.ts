@@ -304,7 +304,7 @@ export default {
     x: 'X',
   },
   navigation: {
-    'change-language': 'Traslite',
+    'change-language': 'Translate',
     'change-theme': 'Change theme',
     'light-theme': 'Light theme',
     'dark-theme': 'Dark theme',
