@@ -12,7 +12,7 @@
   $: t = useTranslations(locale, 'timeline')
 
   let today = new Date()
-  let dateOfBirth = new Date(1992, 1, 16)
+  let dateOfBirth = new Date(1995, 8, 31)
   let healthyLifeExpectancy = 60.7
   let lifeExpectancyAtBirth = 68.2
   let weeksInYear = 52
