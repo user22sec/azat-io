@@ -1,11 +1,13 @@
 import en from '~/locales/en'
 import ru from '~/locales/ru'
+import id from '~/locales/id'
 
 export type Locale = keyof typeof translations
 
 export let translations = {
   en,
   ru,
+  id, 
 }
 
 export let locales: {
@@ -13,6 +15,12 @@ export let locales: {
   flag: string
   code: Locale
 }[] = [
+
+  {
+    originName: 'Indonesia',
+    flag: 'id',
+    code: 'id',
+  },
   {
     originName: 'English',
     flag: 'us',
@@ -26,4 +34,4 @@ export let locales: {
   },
 ]
 
-export let defaultLocale: Locale = 'en'
+export let defaultLocale: Locale = 'id'
