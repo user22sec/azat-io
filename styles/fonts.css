@@ -30,9 +30,25 @@
   font-display: swap;
   unicode-range: U+0000-00FF, U+2000-206F;
 }
+@font-face {
+  font-family: 'Geist';
+  src: url('/fonts/GeistVF.woff2') format('woff2-variations');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Geist Mono';
+  src: url('/fonts/GeistMonoVF.woff2') format('woff2-variations');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
 
 :root {
-  --font-family-base: 'Co Text', fallback, sans-serif;
+  --font-family-base: 'Geist Mono', fallback, sans-serif;
   --font-family-code: 'Monaspace Neon', monospace;
   --font-size-2xs: 0.875rem;
   --font-size-xs: 0.9375rem;
