@@ -327,7 +327,7 @@ export default {
     npm: 'npm',
   },
   head: {
-    title: 'Catatan Harian Kang Sudar',
+    title: 'Catatan Harian Sudar',
     'last-name': 'Shaimukhametov',
     'cover-for': 'Cover for',
     'first-name': 'Sudar',
@@ -341,10 +341,10 @@ export default {
   },
   rss: {
     description: 'Diary and Essay',
-    title: 'Sudar Blog',
+    title: 'Sudar Blogger',
   },
   header: {
     'skip-to-content': 'Skip to main content',
-    name: 'Sudar Blog',
+    name: 'sudar',
   },
 }
